@@ -16,17 +16,76 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### WORK 
 
-+ <p align = "text-align: left;"> Post-Doctoral, Genomic and Genetic – Case Western Reserve University <span style  = "float: right;"> 2015 – 2018 </span> </p>
++ <p align = "text-align: left;"> Postdoctoral Scholar, Genomic and Genetic – Case Western Reserve University <span style  = "float: right;"> 2015 – 2018 </span> </p>
 
 <br>
 
 #### EDUCATION 
 
-+ <p align = "text-align: left;"> M.S, Biostatistics – Columbia University <span style  = "float: right;"> Expected 2020 </span> </p>
++ <p align = "text-align: left;"> M.S, Biostatistics – Columbia University <span style  = "float: right;"> 2018 - 2020 (expected) </span> </p>
 
 + <p align = "text-align: left;"> Ph.D, Biology/Genetics – Fudan University <span style  = "float: right;"> 2008 – 2015 </span> </p>
 
 + <p align = "text-align: left;"> Bachelor of Science, Biological Science – Fudan University <span style  = "float: right;"> 2004 – 2008 </span> </p>
+
+<br>
+
+#### RESEARCH PROJECTS
+
++ **Genome-wide CRISPR Screening** [1 and several additional manuscripts under preparation]
+
+  *Short description*: Genome-wide CRISPR screening, developed by Feng Zhang, Broad Institute, MIT, is a powerful tool to investigate the regulators for proteins, cell behaviors, diseases, or drug targets. After delivering a pool of sgRNA into cells with the help of lentivirus, cells are screened according to protein levels, cell behaviors, or drug resistances. The sgRNA cassettes within the cells are then sequenced, giving information about potential regulators. With expanding knowledge of CRISPR-Cas9 systems, this technology is promising in pharmacy, diagnosis and biomedical research. 
+
+  *Roles*: genome-editing, cell culture, flow cytometry, DNA library preparation, GO analysis, gene pathway analysis, data processing, data interpretation
+
++ **New Technology Development** [manuscript under preparation]
+
+  *Short description*: Genome-wide association of SNP (GWAS) is a powerful technology to discover disease associated SNPs. However, due to the limitations of GWAS, SNPs identified by GWAS may not be functional. New technologies are needed to find causal SNPs. We are developing a new technology to screen potential causal SNPs. This technology has great potential in linking functional genomic elements to diseases, or developing novel SNPs with potential applications in diagnosis. 
+
+  *Roles*: unbiased DNA amplification, cloning, PAGE (polyacrylamide gel electrophoresis) purification, DNA library preparation, data interpretation
+
++ **Analysis of cardiovascular co-morbidities of diabetes** [2, 6, 7, 8]
+
+  According to epidemic studies, half of diabetes patients will develop cardiovascular diseases. However, the prognosis varies from person to person. Molecular markers, SNPs can be powerful in predicting the clinical implications of diabetes patients with heart diseases. In this project, we used both clinical study, GWAS data analysis, and gene functional study to find clues in evaluating the outcomes of such patients. 
+
+  *Roles*: GWAS data processing, cell culture, functional study, clinical cross-sectional study, data collection and cleaning, stepwise multivariate regression, ROC curve
+
++ **Functional study of dysregulated proteins in hepatocellular carcinoma** [3, 4, 5]
+
+  Protein expression are dramatically changed in malignant tumor cells. Dysregulation of some essential proteins, such as P53, contributes greatly in the progression of many kinds of cancers. In this project, we assessed several misrepresented proteins on the cell growth, apoptosis of liver cancer cell lines in vitro.
+
+  *Roles*: genome editing, virus culturing, bacteria culturing, flow cytometry, DNA transfection, meta-analysis of gene-expression, viral DNA and RNA quantification, in-vivo protein half-life analysis, co-immunoprecipitation
+
+<br>
+
+#### SKILLS
+
++ Molecule and cell biology
+
+    - 10 years work experience, a set of skills
+
++ Genomics
+
+    - 3 years benchwork experience, library preparation, GO analysis, pathway analysis
+
++ Biostatistics
+
+    - 2 years work experience, data cleaning, stepwise multivariate regression analysis, meta analysis
+
++ R programming
+
+    - 1-year work experience, single-cell data analysis
+    - practice through several courses
+
++ Python
+
+    - practice through several courses
+
+<br>
+
+#### PROFESSIONAL EXPERIENCE 
+
++ <p align = "text-align: left;"> Research assistant – Huashan Hospital, Fudan University <span style  = "float: right;"> 2008 – 2010 </span> </p>
 
 <br>
 
@@ -35,40 +94,6 @@ knitr::opts_chunk$set(echo = TRUE)
 + <p align = "text-align: left;"> 3rd Prize Scholarship <span style  = "float: right;"> 2010 – 2011 </span> </p>
 
 + <p align = "text-align: left;"> 2nd Prize Scholarship <span style  = "float: right;"> 2011 – 2012 </span> </p>
-
-<br>
-
-#### RESEARCH PROJECTS (Postdoctral )
-
-+ **Genome-wide CRISPR Screening** [1 and several additional manuscripts under preparation]
-
-  *Short description*: Genome-wide CRISPR screening is a powerful tool to investigate the regulators for proteins, cell behaviors, diseases, or drug targets. After delivering a pool of sgRNA into cell line with the help of lentivirus, cells are screened according to protein levels, cell behaviors, or drug resistances. The sgRNA cassettes within the cells are then sequenced, thus knowing potential regulators. With expanding knowledge of CRISPR-Cas9 systems, this technology is promising in pharmacy, diagnosis and biomedical research. 
-
-  *Roles*: genome-editing, cell culture, flow cytometry, DNA library preparation, GO analysis, gene pathway analysis, data interpretation
-
-+ **New Technology Development** [manuscript under preparation]
-
-  *Short description*: Genome-wide association of SNP (GWAS) is a powerful technology to discover disease associated SNPs. However, GWAS is unable to define the functional SNPs for a disease, new technologies are to be developed to find causal SNPs. We are developing a new technology to screen potential causal SNPs. This technology has great potential in uncovering the basis of diseases, finding authentic SNPs with higher diagnosis power. 
-
-  *Roles*: unbiased DNA amplification, Cloning, PAGE (polyacrylamide gel electrophoresis) purification, DNA library preparation, data interpretation
-
-+ **Analysis of cardiovascular co-morbidities of diabetes** [2, 6, 7, 8]
-
-  *Roles*: GWAS data processing, cell culture, functional study, clinical cross-sectional study, data collection and cleaning, stepwise multivariate regression, ROC curve
-
-+ **Functional study of UNC50 protein in hepatology** [3]
-
-  *Roles*: genome editing, virus culturing, bacteria culturing, flow cytometry, DNA transfection, meta-analysis of gene-expression, viral DNA and RNA quantification
-
-+ **Studying the mechanism of HBX protein degradation by p53 protein** [4, 5]
-
-  *Roles*: In-vivo protein half-life analysis, co-immunoprecipitation
-
-<br>
-
-#### PROFESSIONAL EXPERIENCE 
-
-+ <p align = "text-align: left;"> Research assistant – Fudan University <span style  = "float: right;"> 2008 – 2010 </span> </p>
 
 <br>
 
