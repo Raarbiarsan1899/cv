@@ -35,9 +35,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 + **Genome-wide CRISPR Screening** [1 and several additional manuscripts under preparation]
 
-  *Short description*: Genome-wide CRISPR screening, developed by Feng Zhang, Broad Institute, MIT, is a powerful tool to investigate the regulators for proteins, cell behaviors, diseases, or drug targets. After delivering a pool of sgRNA into cells with the help of lentivirus, cells are screened according to protein levels, cell behaviors, or drug resistances. The sgRNA cassettes within the cells are then sequenced, giving information about potential regulators. With expanding knowledge of CRISPR-Cas9 systems, this technology is promising in pharmacy, diagnosis and biomedical research. 
+  *Short description*: Genome-wide CRISPR screening is a powerful tool to investigate gene functions. However, the difficult parts are the unbiased amplification of sgRNA library at plasmid, virus, and cell levels. During my postdoctoral study, I successfully established genome-wide CRISPR screening platform for a newly formed research team. Besides, to customize analysis of flow cytometry single cell data, I self-studied R programming and accomplished several tasks assigned by the principle investigator.
 
-  *Roles*: genome-editing, cell culture, flow cytometry, DNA library preparation, GO analysis, gene pathway analysis, data processing, data interpretation
+  *Roles*: genome-editing, cell culture, flow cytometry, virus culturing, DNA library preparation, GO analysis, gene pathway analysis, data processing, data interpretation
 
 + **New Technology Development** [manuscript under preparation]
 
