@@ -19,8 +19,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 + <p align = "text-align: left;"> Postdoctoral Scholar, Genomic and Genetic – Case Western Reserve University <span style  = "float: right;"> 2015 – 2018 </span> </p>
 
-<br>
-
 #### EDUCATION 
 
 + <p align = "text-align: left;"> M.S, Biostatistics – Columbia University <span style  = "float: right;"> 2018 - 2020 (expected) </span> </p>
@@ -43,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
   *Short description*: According to epidemic studies, half of diabetes patients will develop cardiovascular diseases. However, the prognosis varies from person to person. Molecular markers, SNPs can be powerful in predicting the clinical implications of diabetes patients with heart diseases. I did a stepwise multivariate linear regression to find relation between several serum markers and cardiovascular implications using SPSS. I also participated in a gene function study and an environment-gene interaction study.
 
-  *Roles*: GWAS data analysis, cell culturing, data cleaning (SPSS), performing stepwise multivariate regression, drawing ROC curve
+  *Roles*: data collecting, data cleaning (SPSS), performing stepwise multivariate regression, drawing ROC curve
 
 + **Functional study of dysregulated proteins in hepatocellular carcinoma** [3, 4, 5]
 
@@ -70,8 +68,6 @@ knitr::opts_chunk$set(echo = TRUE)
 #### PROFESSIONAL EXPERIENCE 
 
 + <p align = "text-align: left;"> Research assistant – Huashan Hospital, Fudan University <span style  = "float: right;"> 2008 – 2010 </span> </p>
-
-<br>
 
 #### AWARDS 
 
